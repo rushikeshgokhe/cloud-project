@@ -28,4 +28,6 @@ This project was successfully tested.
 The AWS S3 resources were later removed to avoid unnecessary cloud charges, as AWS is a paid service.
 
 ## Status
-Completed
+
+Completed<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/720ce501-4f27-49e1-a414-7c42ac2bcdf3" />
+
