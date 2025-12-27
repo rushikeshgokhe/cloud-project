@@ -1,6 +1,0 @@
-Steps followed:
-1. Created AWS S3 Public Bucket with unique name "amazon-website-demo-test1"
-2. Go inside bucket "amazon-website-demo-test1" --> objects --> upload index.html file
-3. Grant public read permissions to the bucket.
-4. Inside properties we get url that canbe accessed publically, copy the url
-5. Paste url in the browser and site gets published.
